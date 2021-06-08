@@ -1,7 +1,7 @@
 
 /**
  *
- * @author 100661873 Owen Stoll
+ * Nov. 2019
  */
 
 //imports are used only for file reading and IO 
