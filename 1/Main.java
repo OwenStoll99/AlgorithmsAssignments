@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.Scanner;
 /**
  *
- * @author 100661873
+ * Oct 2019
  */
 
 
