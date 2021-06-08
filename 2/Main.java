@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  *
- * @author 100661873
+ * Oct 2019
  */
 
 public class Main {
